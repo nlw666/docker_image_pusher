@@ -1,1 +1,1 @@
-danchitnis/xrdp:ubuntu-xfce-next
+kasmweb/ubuntu-noble-desktop:1.16.0-rolling-daily
