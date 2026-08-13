@@ -1,1 +1,1 @@
-severalnines/sysbench:latest
+ubuntu:22.04
