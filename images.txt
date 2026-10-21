@@ -1,2 +1,1 @@
-oceanbase/obproxy-ce:4.3.1.0-4
-oceanbase/oceanbase-ce:4.2.5.5-105000032025071717
+moys3389/ip2region-api:latest
